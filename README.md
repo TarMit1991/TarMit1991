@@ -11,9 +11,10 @@ Welcome to my portfolio! I'm a Per Scholas of North Carolina Cybersecurity gradu
 - Splunk Core Certified
 - Google Cybersecurity with AI Tools (Coursera)
 - Google Project Management (Coursera)
-- Google Cloud Associate Cloud Engineer *(In Progress)*## 🛠️ Tools & Technologies
+- Google Cloud Associate Cloud Engineer *(In Progress)*
   
-**Security Tools:** Splunk, Wireshark, OPNsense, Kali Linux
+- ## 🛠️ Tools & Technologies
+  **Security Tools:** Splunk, Wireshark, OPNsense, Kali Linux
 **Networking:** Cisco Packet Tracer, Network Segmentation, ACLs
 **Cloud & IAM:** Google Cloud IAM, Google Cloud Logging & Monitoring
 **Systems & Scripting:** Active Directory, PowerShell, Windows
