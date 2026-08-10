@@ -21,7 +21,7 @@ Welcome to my portfolio! I'm a Per Scholas of North Carolina Cybersecurity gradu
 **Frameworks:** NIST CSF, MITRE ATT&CK
 
 ## 📂 Featured Repository
-- [cybersecurity-labs](https://github.com/TarMit1991/cybersecurity-labs) — Hands-on labs covering network defense, Linux security, vulnerability scanning, and incident response
+- https://github.com/TarMit1991/TarMit1991 — Hands-on labs covering network defense, Linux security, vulnerability scanning, and incident response
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/tarraya-mitchell-542262276
