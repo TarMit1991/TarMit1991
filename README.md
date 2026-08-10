@@ -1,6 +1,6 @@
 # Hi, I'm Tarraya Mitchell 👋🏾
 
-Welcome to my portfolio! I'm a Per Scholas Cybersecurity graduate transitioning into a career in tech, bringing 10+ years of investigative and problem-solving experience along with me. Here you'll find the hands-on labs and projects I completed during my training — thanks for stopping by!
+Welcome to my portfolio! I'm a Per Scholas of North Carolina Cybersecurity graduate transitioning into a career in tech, bringing 10+ years of investigative and problem-solving experience along with me. Here you'll find the hands-on labs and projects I completed during my training — thanks for stopping by!
 
 ## 🎯 Skills
 **Security Operations & Analysis:** SIEM & Log Analysis, Threat Detection & Triage, Incident Response, Vulnerability Management, MITRE ATT&CK, NIST CSF
