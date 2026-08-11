@@ -7,11 +7,14 @@ Welcome to my portfolio! I'm a Per Scholas of North Carolina Cybersecurity gradu
 **Network & Cloud Security:** Network Security Fundamentals, Cloud Security Fundamentals, IAM & Least Privilege, Cloud Logging & Audit Monitoring
 
 ## 📜 Certifications
-- CompTIA Security+
+- CompTIA Security+ https://www.credly.com/badges/d459d645-be34-4b09-9ef3-374702f095b8/public_url
 - Splunk Core Certified
 - Google Cybersecurity with AI Tools (Coursera)
 - Google Project Management (Coursera)
 - Google Cloud Associate Cloud Engineer *(In Progress)*
+- Google AI Essentials https://www.credly.com/badges/112a0384-ed48-4c9b-bc3c-9fc10603b4f8/public_url
+- Cisco Networking Basics — Cisco Networking Academy https://www.credly.com/badges/2c9ac701-f616-4d5e-a994-8cab1323a0bb/public_url
+- Cisco Network Defense — Cisco Networking Academy https://www.credly.com/badges/cd0f14ed-8986-4e63-a0ee-4b96be9c3586/public_url
   
 - ## 🛠️ Tools & Technologies
   **Security Tools:** Splunk, Wireshark, OPNsense, Kali Linux
